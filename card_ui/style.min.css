@@ -1,0 +1,2 @@
+.grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr))}.item{box-shadow:5px 5px 5px #789;border:solid 3px gray;border-radius:10px;background:aqua;padding:15px;text-align:center}img{max-width:50%;height:auto;border-radius:50%}p{text-align:left}
+/*# sourceMappingURL=style.min.css.map */
